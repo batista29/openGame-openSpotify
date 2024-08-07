@@ -1,7 +1,7 @@
 # openGame-openSpotify
 
 ## Clonar
-* Abra o gitbash
+* Abra o git
 * Escreva: git clone https://github.com/batista29/openGame-openSpotify.git
 
 ## Instalação
